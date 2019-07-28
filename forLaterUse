@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/6.3.3/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#config-web-app -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDS4FEg48-CHhJGttT_pA97vxXH59xLsuE",
+    authDomain: "bkt-angular-firebase-phili467.firebaseapp.com",
+    databaseURL: "https://bkt-angular-firebase-phili467.firebaseio.com",
+    projectId: "bkt-angular-firebase-phili467",
+    storageBucket: "",
+    messagingSenderId: "1014413501238",
+    appId: "1:1014413501238:web:58bcf98f564e932e"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
